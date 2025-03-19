@@ -1,0 +1,17 @@
+{
+  "pools": {
+    "technical": [],
+    "industry": [
+      "plugin"
+    ],
+    "action": [],
+    "object": []
+  },
+  "categories": {
+    "user_defined": {
+      "industry": [
+        "plugin"
+      ]
+    }
+  }
+}

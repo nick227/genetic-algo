@@ -1,0 +1,1 @@
+technical=wordpress,industry=plugin,action=specialize,object=AI tools
